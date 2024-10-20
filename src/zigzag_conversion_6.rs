@@ -4,9 +4,6 @@
  * [6] Zigzag Conversion
  */
 
-use core::num;
-use std::{array, str::Chars};
-
 struct Solution {}
 // @lc code=start
 impl Solution {
